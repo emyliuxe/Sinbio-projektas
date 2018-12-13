@@ -1,10 +1,10 @@
-Nr.,Rūšis,Vieta,Pagavimo_data,Lytis,Q(g.),L(mm),Luo(mm),P(mm),A(mm),Amžius,Pastabos,RatPyV1,RatPyV2
+Nr,Rūšis,Vieta,Pagavimo_data,Lytis,Q(g.),L(mm),Luo(mm),P(mm),A(mm),Amžius,Pastabos,RatPyV1,RatPyV2
 R121,R.norvegicus,"Joniškio raj., Veršių km.",2013.09.21,vyr.,162,187,152,38,15,ad.,"Tvartas, laikomos karvės, kiaulės",N/A,N/A
 R122,R.norvegicus,"Joniškio raj., Šarūnų km.",2013.09.27,vyr.,184,202,156,39,17,ad.,"Tvartas, laikomos karvės, kiaulės",N/A,N/A
 R123,R.norvegicus,"Panevėžio raj., Krekenava",2014.06.10,vyr.,248,233,171,39,17,ad.,Stumbrynas,N/A,N/A
 R124,R.norvegicus,"Gedimino pr., Vilnius",2014.10.20,mot.,38,120,90,28,14,juv.,N/A,N/A,N/A
-R125,R.norvegicus,"Joniškio raj., Šarūnų km.",2015.02.15.,vyr.,139,185,153,38,"15,5",sub.,"Tvartas, laikomos karvės, kiaulės",N/A,N/A
-R126,R.norvegicus,"Joniškio raj., Šarūnų km.",2015.02.15.,vyr.,148,187,170,36,"16,5",sub.,"Tvartas, laikomos karvės, kiaulės",N/A,N/A
+R125,R.norvegicus,"Joniškio raj., Šarūnų km.",2015.02.15.,vyr.,139,185,153,38,15.5,sub.,"Tvartas, laikomos karvės, kiaulės",N/A,N/A
+R126,R.norvegicus,"Joniškio raj., Šarūnų km.",2015.02.15.,vyr.,148,187,170,36,16.5,sub.,"Tvartas, laikomos karvės, kiaulės",N/A,N/A
 R127,R.rattus,"Zarasų raj., Pakniškių km.",2015.08.13,mot.,69,144,162,35,22,sub.,"Tvartas, laikomos vištos",N/A,N/A
 R128,R.rattus,"Zarasų raj., Pakniškių km.",2015.08.13,mot.,92,155,182,36,21,sub.,"Tvartas, laikomos vištos",N/A,N/A
 R129,R.rattus,"Zarasų raj., Pakniškių km.",2015.08.13,vyr.,50,115,148,32,19,juv.,"Tvartas, laikomos vištos",N/A,N/A
