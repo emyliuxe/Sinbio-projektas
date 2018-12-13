@@ -1,0 +1,118 @@
+Nr.,Rūšis,Vieta,Pagavimo_data,Lytis,Q(g.),L(mm),Luo(mm),P(mm),A(mm),Amžius,Pastabos,RatPyV1,RatPyV2
+R121,R.norvegicus,"Joniškio raj., Veršių km.",2013.09.21,vyr.,162,187,152,38,15,ad.,"Tvartas, laikomos karvės, kiaulės",N/A,N/A
+R122,R.norvegicus,"Joniškio raj., Šarūnų km.",2013.09.27,vyr.,184,202,156,39,17,ad.,"Tvartas, laikomos karvės, kiaulės",N/A,N/A
+R123,R.norvegicus,"Panevėžio raj., Krekenava",2014.06.10,vyr.,248,233,171,39,17,ad.,Stumbrynas,N/A,N/A
+R124,R.norvegicus,"Gedimino pr., Vilnius",2014.10.20,mot.,38,120,90,28,14,juv.,N/A,N/A,N/A
+R125,R.norvegicus,"Joniškio raj., Šarūnų km.",2015.02.15.,vyr.,139,185,153,38,"15,5",sub.,"Tvartas, laikomos karvės, kiaulės",N/A,N/A
+R126,R.norvegicus,"Joniškio raj., Šarūnų km.",2015.02.15.,vyr.,148,187,170,36,"16,5",sub.,"Tvartas, laikomos karvės, kiaulės",N/A,N/A
+R127,R.rattus,"Zarasų raj., Pakniškių km.",2015.08.13,mot.,69,144,162,35,22,sub.,"Tvartas, laikomos vištos",N/A,N/A
+R128,R.rattus,"Zarasų raj., Pakniškių km.",2015.08.13,mot.,92,155,182,36,21,sub.,"Tvartas, laikomos vištos",N/A,N/A
+R129,R.rattus,"Zarasų raj., Pakniškių km.",2015.08.13,vyr.,50,115,148,32,19,juv.,"Tvartas, laikomos vištos",N/A,N/A
+R130,R.rattus,"Zarasų raj., Pakniškių km.",2015.08.13,vyr.,101,155,183,36,23,sub.,"Tvartas, laikomos vištos",N/A,N/A
+R131,R.rattus,"Zarasų raj., Pakniškių km.",2015.08.13,vyr.,103,142,185,37,22,ad.,"Tvartas, laikomos vištos",N/A,N/A
+R132,R.rattus,"Zarasų raj., Pakniškių km.",2015.08.26,mot.,73,130,158,33,18,sub.,"Tvartas, laikomos vištos",Ne,Ne
+R133,R.rattus,"Zarasų raj., Pakniškių km.",2015.08.26,mot.,35,105,127,28,15,juv.,"Tvartas, laikomos vištos",Ne,Ne
+R134,R.rattus,"Zarasų raj., Pakniškių km.",2015.08.27,mot.,86,150,175,33,21,sub.,"Tvartas, laikomos vištos",N/A,N/A
+R135,R.rattus,"Zarasų raj., Pakniškių km.",2015.08.27,vyr.,56,137,154,31,19,juv.,"Tvartas, laikomos vištos",N/A,N/A
+R136,R.rattus,"Zarasų raj., Pakniškių km.",2015.08.27,vyr.,34,114,123,30,18,juv.,"Tvartas, laikomos vištos",N/A,N/A
+R137,R.rattus,"Zarasų raj., Pakniškių km.",2015.08.27,mot.,43,118,128,30,21,juv.,"Tvartas, laikomos vištos",N/A,N/A
+R138,R.rattus,"Zarasų raj., Pakniškių km.",2015.09.28,mot.,86,146,179,36,20,sub.,"Tvartas, laikomos vištos",N/A,N/A
+R139,R.rattus,"Zarasų raj., Pakniškių km.",2015.09.28,mot.,95,155,178,33,22,sub.,"Tvartas, laikomos vištos",N/A,N/A
+R140,R.rattus,"Zarasų raj., Pakniškių km.",2015.09.28,mot.,33,110,127,27,18,juv.,"Tvartas, laikomos vištos",N/A,N/A
+R141,R.rattus,"Zarasų raj., Pakniškių km.",2015.09.28,vyr.,42,122,125,30,18,juv.,"Tvartas, laikomos vištos",N/A,N/A
+R142,R.rattus,"Zarasų raj., Pakniškių km.",2015.09.28,mot.,171,192,210,37,22,ad.,"Tvartas, laikomos vištos",N/A,N/A
+R143,R.rattus,"Zarasų raj., Pakniškių km.",2015.09.28,mot.,41,125,135,29,19,juv.,"Tvartas, laikomos vištos",N/A,N/A
+R144,R.rattus,"Zarasų raj., Pakniškių km.",2015.09.28,mot.,47,125,153,32,18,juv.,"Tvartas, laikomos vištos",N/A,N/A
+R145,R.rattus,"Zarasų raj., Pakniškių km.",2015.09.28,vyr.,40,118,146,31,20,juv.,"Tvartas, laikomos vištos",N/A,N/A
+R146,R.rattus,"Zarasų raj., Pakniškių km.",2015.09.28,mot.,51,115,148,32,18,juv.,"Tvartas, laikomos vištos",N/A,N/A
+R147,R.rattus (ruda forma),"Zarasų raj., Antazavės gyv.",2015.09.28,mot.,167,175,225,36,26,ad.,"Tvartas, laikomos karvės",N/A,N/A
+R148,R.rattus (ruda forma),"Zarasų raj., Antazavės gyv.",2015.09.28,mot.,119,159,196,32,23,ad.,"Tvartas, laikomos karvės",N/A,N/A
+R149,R.rattus (ruda forma),"Zarasų raj., Antazavės gyv.",2015.10.05,mot.,90,146,149,33,19,sub.,"Tvartas, laikomos karvės",N/A,N/A
+R150,R.rattus (ruda forma),"Zarasų raj., Antazavės gyv.",2015.10.05,vyr.,69,144,162,32,21,sub.,"Tvartas, laikomos karvės",N/A,N/A
+R151,R.rattus (ruda forma),"Zarasų raj., Antazavės gyv.",2015.10.05,mot.,56,140,160,29,19,sub.,"Tvartas, laikomos karvės",N/A,N/A
+R152,R.rattus (ruda forma),"Zarasų raj., Antazavės gyv.",2015.10.05,mot.,16,89,95,23,11,juv.,"Tvartas, laikomos karvės",N/A,N/A
+R153,R.rattus,"Zarasų raj., Dusetų gyv.",2015.10.05,mot.,49,126,127,27,20,juv.,"Ūkinis pastatas, gyvūnų nelaikoma",N/A,N/A
+R154,R.rattus,"Zarasų raj., Pakniškių km.",2015.10.05,mot.,138,179,210,37,22,ad.,"Tvartas, laikomos vištos",N/A,N/A
+R155,R.rattus,"Zarasų raj., Pakniškių km.",2014.11.05,mot.,67,137,149,34,18,juv.,"Tvartas, laikomos vištos",Ne,Ne
+R156,R.rattus,"Utenos raj., Vilučių km.",2014.11.17,vyr.,102,168,183,34,23,sub.,N/A,Ne,Ne
+R157,R.rattus,"Zarasų raj., Pakniškių km.",2015.10.02,mot.,86,158,187,34,18,sub.,Gyvenamasis namas,Ne,Ne
+R158,R.rattus,"Zarasų raj., Pakniškių km.",2015.10.02,mot.,55,124,146,32,17,juv.,Gyvenamasis namas,Ne,Ne
+R159,R.rattus,"Zarasų raj., Pakniškių km.",2015.10.02,vyr.,79,140,170,33,21,juv.,Gyvenamasis namas,Ne,Ne
+R160,R.rattus,"Zarasų raj., Pakniškių km.",2015.10.03,mot.,35,115,128,28,16,juv.,Gyvenamasis namas,Ne,Ne
+R161,R.rattus,"Zarasų raj., Pakniškių km.",2015.10.03,vyr.,32,110,121,29,17,juv.,Gyvenamasis namas,Ne,Taip
+R162,R.rattus,"Zarasų raj., Pakniškių km.",2015.10.12,mot.,35,113,127,29,16,juv.,"Tvartas, laikomos vištos",Ne,Ne
+R163,R.rattus,"Zarasų raj., Pakniškių km.",2015.10.12,mot.,21,88,101,23,15,juv.,"Tvartas, laikomos vištos",Ne,Ne
+R164,R.rattus,"Zarasų raj., Pakniškių km.",2015.10.13,mot.,111,N/A,202,38,18,ad.,"Tvartas, laikomos vištos",Ne,Ne
+R165,R.rattus,"Zarasų raj., Pakniškių km.",2015.10.13,mot.,28,98,134,29,17,juv.,"Tvartas, laikomos vištos",Ne,Taip
+R166,R.rattus,"Zarasų raj., Pakniškių km.",2015.10.13,mot.,30,101,127,27,18,juv.,"Tvartas, laikomos vištos",Ne,Taip
+R167,R.rattus,"Zarasų raj., Pakniškių km.",2015.10.13,vyr.,N/A,N/A,134,30,N/A,juv.,"Tvartas, laikomos vištos",Ne,Ne
+R168,R.rattus,"Zarasų raj., Pakniškių km.",2015.10.14,vyr.,32,110,124,30,17,juv.,"Tvartas, laikomos vištos",Ne,Ne
+R169,R.rattus,"Zarasų raj., Pakniškių km.",2015.10.14,vyr.,24,103,113,26,15,juv.,"Tvartas, laikomos vištos",Ne,Taip
+R170,R.rattus,"Zarasų raj., Pakniškių km.",2015.10.14,N/A,10,N/A,N/A,N/A,N/A,juv.,"Tvartas, laikomos vištos",N/A,N/A
+R171,R.norvegicus,Vilniaus raj.,2015.02.15,vyr.,351,227,216,42,19,ad.,"Tvartas, laikomos kiaulės",Ne,Ne
+R172,R.norvegicus,Vilniaus raj.,2015.02.16,vyr.,421,249,172,42,21,ad.,"Tvartas, laikomos kiaulės",Ne,Ne
+R173,R.norvegicus,Vilniaus raj.,2015.02.17,vyr.,384,235,200,41,20,ad.,"Tvartas, laikomos kiaulės",Ne,Ne
+R174,R.norvegicus,"Grubupių km., Šilutės raj. ",2014.01.03,vyr.,285,211,175,39,17,ad.,Kiaulių auginimo kompleksas,Taip,Ne
+R175,R.norvegicus,"Grubupių km., Šilutės raj. ",2014.01.03,mot.,292,202,175,40,20,ad.,Kiaulių auginimo kompleksas,Taip,Ne
+R176,R.norvegicus,"Grubupių km., Šilutės raj. ",2014.01.03,vyr.,433,235,205,45,18,ad.,Kiaulių auginimo kompleksas,Taip,Ne
+R177,R.norvegicus,"Grubupių km., Šilutės raj. ",2014.01.03,vyr.,435,242,195,44,N/A,ad.,Kiaulių auginimo kompleksas,Ne,Ne
+R178,R.norvegicus,"Grubupių km., Šilutės raj. ",2014.01.03,vyr.,408,230,179,42,22,ad.,Kiaulių auginimo kompleksas,Ne,Ne
+R179,R.norvegicus,"Grubupių km., Šilutės raj. ",2014.01.03,vyr.,332,220,192,40,20,ad.,Kiaulių auginimo kompleksas,Ne,Ne
+R180,R.rattus,"Zarasų raj., Antazavės gyv.",2016.01.09,vyr.,105,165,186,32,21,sub.,"Tvartas, laikomos karvės",Ne,Ne
+R181,R.rattus,"Zarasų raj., Antazavės gyv.",2016.01.09,vyr.,111,173,194,33,18,ad.,"Tvartas, laikomos karvės",Ne,Ne
+R182,R.rattus,"Zarasų raj., Antazavės gyv.",2016.01.09,vyr.,107,162,162,33,18,ad.,"Tvartas, laikomos karvės",Ne,Ne
+R183,R.rattus,"Zarasų raj., Antazavės gyv.",2016.01.09,mot.,98,165,190,35,21,sub.,"Tvartas, laikomos karvės",Ne,Ne
+R184,R.rattus,"Zarasų raj., Pakniškių km.",2016.01.10,mot.,140,179,220,36,24,ad.,"Tvartas, laikomos karvės",Ne,Ne
+R185,R.rattus,"Zarasų raj., Pakniškių km.",2016.01.10,mot.,90,161,161,33,19,sub.,"Tvartas, laikomos karvės",Ne,Ne
+R186,R.norvegicus,"Vilnius, senamiestis",2016.02.05,vyr.,246,205,175,41,16,sub.,Gyvenamasis namas,Ne,Ne
+R187,R.norvegicus,Vilniaus raj.,2014.11.06,vyr.,255,226,195,42,18,ad.,"Tvartas, laikomos kiaulės",Ne,Ne
+R188,R.rattus,"Zarasų raj., Antazavės gyv.",2015.03,vyr.,107,175,180,36,22,sub.,"Tvartas, laikomos karvės",Taip,Ne
+R189,R.norvegicus,"Vilnius, Gedimino pr.",2015.10.05,vyr.,195,195,165,40,17,ad.,Gyvenamasis namas,Taip,Ne
+R190,R.norvegicus,"Joniškio raj., Šarūnų km.",2014.09.29-10.21,vyr.,295,205,185,43,20,ad.,"Tvartas, laikomos karvės, kiaulės",Ne,Ne
+R191,R.norvegicus,"Joniškio raj., Šarūnų km.",2014.09.29-10.22,mot.,127,175,150,38,16,sub.,"Tvartas, laikomos karvės, kiaulės",Taip,Ne
+R192,R.norvegicus,"Joniškio raj., Šarūnų km.",2014.11.05,mot.,101,156,129,35,12,juv.,"Tvartas, laikomos karvės, kiaulės",Ne,Ne
+R193,R.norvegicus,"Rokiškio raj., Kovelių km.",2016.04.01,N/A,314,220,189,41,19,ad.,Paukštynas,Taip,Ne
+R194,R.norvegicus,"Rokiškio raj., Kovelių km.",2016.04.01,N/A,126,165,133,36,16,juv.,Paukštynas,Ne,Ne
+R195,R.rattus,"Zarasų raj., Antazavės gyv.",2016.08.31,vyr.,131,165,205,34,24,ad.,"Tvartas, laikomos karvės",Ne,Ne
+R196,R.rattus,"Zarasų raj., Pakniškių km.",2016.08.31,vyr.,172,185,195,35,26,ad.,"Tvartas, laikomos vištos",Ne,Ne
+R197,R.rattus,"Zarasų raj., Pakniškių km.",2016.08.31,vyr.,41,115,135,29,19,juv.,"Tvartas, laikomos vištos",Ne,Ne
+R198,R.rattus,"Zarasų raj., Pakniškių km.",2016.08.31,N/A,151,183,N/A,36,22,ad.,"Tvartas, laikomos vištos",Ne,Ne
+R199,R.rattus,"Zarasų raj., Pakniškių km.",2016.08.31,vyr.,70,131,166,31,20,juv.,"Tvartas, laikomos vištos",Ne,Ne
+R200,R.rattus,"Zarasų raj., Pakniškių km.",2016.08.31,N/A,88,145,167,34,21,juv.,"Tvartas, laikomos vištos",Ne,Ne
+R201,R.rattus,"Zarasų raj., Pakniškių km.",2016.09.15,vyr.,233,197,231,36,19,ad.,"Tvartas, laikomos vištos",Ne,Ne
+R202,R.rattus,"Zarasų raj., Pakniškių km.",2016.09.15,vyr.,62,140,152,30,16,juv.,"Tvartas, laikomos vištos",Ne,Ne
+R203,R.rattus,"Zarasų raj., Pakniškių km.",2016.09.27,mot.,174,175,200,36,25,ad.,"Tvartas, laikomos vištos",Ne,Ne
+R204,R.rattus,"Zarasų raj., Pakniškių km.",2016.09.27,vyr.,147,168,182,36,22,ad.,"Tvartas, laikomos vištos",Ne,Ne
+R205,R.rattus,"Zarasų raj., Pakniškių km.",2016.09.27,vyr.,123,155,174,32,20,ad.,"Tvartas, laikomos vištos",Ne,Ne
+R206,R.rattus,"Zarasų raj., Pakniškių km.",2016.09.27,mot.,38,109,113,29,18,juv.,"Tvartas, laikomos vištos",Ne,Ne
+R207,R.rattus,"Zarasų raj., Pakniškių km.",2016.09.27,mot.,25,98,110,25,12,juv.,"Tvartas, laikomos vištos",Ne,Ne
+R208,R.rattus,"Zarasų raj., Pakniškių km.",2016.11.02,vyr.,230,202,201,37,27,ad.,"Tvartas, laikomos vištos",Ne,Ne
+R209,R.rattus,"Zarasų raj., Pakniškių km.",2017.04.05-07,vyr.,154,N/A,N/A,N/A,N/A,ad.,"Tvartas, laikomos vištos",Ne,Ne
+R210,R.rattus,"Zarasų raj., Pakniškių km.",2017.04.05-07,mot.,82,N/A,N/A,N/A,N/A,sub.,"Tvartas, laikomos vištos",Ne,Ne
+R211,R.rattus,"Zarasų raj., Pakniškių km.",2017.03.04-07,mot.,92,N/A,N/A,N/A,N/A,sub.,"Tvartas, laikomos vištos",Ne,Ne
+R212,R.rattus,"Zarasų raj., Pakniškių km.",2017.03.04-07,mot.,42,N/A,N/A,N/A,N/A,juv.,"Tvartas, laikomos vištos",Ne,Ne
+R213,R.rattus,"Zarasų raj., Pakniškių km.",2017.03.04-07,mot.,177,N/A,N/A,N/A,N/A,ad.,"Tvartas, laikomos vištos",Ne,Ne
+R214,R.rattus,"Zarasų raj., Pakniškių km.",2017.03.31,vyr.,75,N/A,N/A,N/A,N/A,juv.,"Tvartas, laikomos vištos",Ne,Ne
+R215,R.rattus,"Zarasų raj., Pakniškių km.",2017.03.31,vyr.,48,N/A,N/A,N/A,N/A,juv.,"Tvartas, laikomos vištos",Ne,Ne
+R216,R.rattus,"Zarasų raj., Pakniškių km.",2017.03.31,mot.,41,N/A,N/A,N/A,N/A,juv.,"Tvartas, laikomos vištos",Ne,Ne
+R217,R.rattus,"Zarasų raj., Pakniškių km.",2017.02.20,mot.,138,N/A,N/A,N/A,N/A,ad.,"Tvartas, laikomos vištos",Ne,Ne
+R218,R.rattus,"Zarasų raj., Pakniškių km.",2017.02.20,mot.,77,N/A,N/A,N/A,N/A,juv.,"Tvartas, laikomos vištos",Ne,Ne
+R219,R.rattus,"Zarasų raj., Pakniškių km.",2017.05.01,vyr.,136,N/A,N/A,N/A,N/A,ad.,"Tvartas, laikomos vištos",Ne,Ne
+R220,R.rattus,"Zarasų raj., Pakniškių km.",2017.05.01,mot.,83,N/A,N/A,N/A,N/A,sub.,"Tvartas, laikomos vištos",Ne,Ne
+R221,R.rattus,"Zarasų raj., Pakniškių km.",2017.02.25,mot.,33,N/A,N/A,N/A,N/A,juv.,"Tvartas, laikomos vištos",Ne,Ne
+R222,R.rattus,"Zarasų raj., Pakniškių km.",2017.07.08,mot.,137,N/A,N/A,N/A,N/A,ad.,"Tvartas, laikomos vištos",Ne,Ne
+R223,R.rattus,"Zarasų raj., Pakniškių km.",2017.07.08,mot.,122,N/A,N/A,N/A,N/A,sub.,"Tvartas, laikomos vištos",Ne,Ne
+R224,R.norvegicus,"Rokiškio raj., Laibgalių km.",2017.09.07,vyr.,369,230,199,45,18,ad.,Paukštynas,Ne,Ne
+R225,R.norvegicus,"Rokiškio raj., Laibgalių km.",2017.09.07,mot.,231,186,174,40,20,ad.,Paukštynas,Ne,Ne
+R226,R.norvegicus,"Rokiškio raj., Laibgalių km.",2017.09.07,vyr.,384,245,200,47,20,ad.,Paukštynas,Taip,Ne
+R227,R.norvegicus,"Rokiškio raj., Laibgalių km.",2017.09.07,mot.,286,209,N/A,40,N/A,ad.,Paukštynas,Ne,Taip
+R228,R.norvegicus,"Rokiškio raj., Laibgalių km.",2017.09.07,vyr.,336,240,160,42,21,ad.,Paukštynas,Ne,Ne
+R229,R.norvegicus,"Rokiškio raj., Laibgalių km.",2017.09.07,vyr.,305,225,190,45,18,ad.,Paukštynas,Ne,Ne
+R230,R.norvegicus,"Rokiškio raj., Laibgalių km.",2017.09.07,mot.,252,200,170,40,20,ad.,Paukštynas,Taip,Ne
+R231,R.norvegicus,"Rokiškio raj., Laibgalių km.",2017.09.07,mot.,80,150,115,35,17,sub.,Paukštynas,Ne,Ne
+R232,R.norvegicus,"Rokiškio raj., Laibgalių km.",2017.09.07,vyr.,102,167,125,32,11,sub.,Paukštynas,Ne,Ne
+R233,R.norvegicus,"Rokiškio raj., Laibgalių km.",2017.09.07,vyr.,73,145,120,35,18,juv.,Paukštynas,Ne,Ne
+R234,R.rattus,"Zarasų raj., Antazavės gyv.",2017.09.20,mot.,104,165,160,32,20,sub.,"Tvartas, laikomos karvės",Ne,Ne
+R235,R.rattus,"Zarasų raj., Dusetų gyv.",2017.09.28,mot.,130,170,176,35,19,sub.,"Ūkinis pastatas, gyvūnų nelaikoma",Ne,Ne
+R236,R.rattus,"Zarasų raj., Pakniškių km.",2017.09.30,mot.,137,170,195,36,25,sub.,"Tvartas, laikomos vištos",Ne,Ne
+R237,R.rattus,"Zarasų raj., Pakniškių km.",2017.10.01,vyr.,47,130,135,32,21,juv.,"Tvartas, laikomos vištos",Ne,Ne
